@@ -1,0 +1,2 @@
+all:
+	g++ -Ilib -w -o mate-matrix.exe mate-matrix.cpp
