@@ -5,14 +5,18 @@ W programie u¿yto klasy -macierz- , a takze przeci¹¿ono operatory (dodawania, we
 Program tak¿e sprawdza, czy dana liczba jest pierwsza.  
 Aplikacja zosta³a napisana dla potrzeb zaliczenia przedmiotu ze studiów.  
 
-### uruchomienie (Windows 64 bity oraz Linux)
-
-	./mate-matrix.exe
+### kompilacja i uruchomienie (Windows lub Linux)
 	
-### kompilacja Windows + MinGW:
+##### kompilacja Windows/MinGW:
 
 	make
 	
-kompilacja pod Linuxem - inny makefile:
+Kompilacja pod Linuxem - inny makefile (biblioteka conio.h wymaga dodania):
 
-	make -f makefile-linux	
+	make -f makefile-linux
+	
+##### Uruchomienie (Windows 64bit oraz Linux 64bit):	
+
+	./mate-matrix.exe
+	
+### Screenshot:
