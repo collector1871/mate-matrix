@@ -1,7 +1,7 @@
 # mate-matrix
 
 Program dodający do siebie dwie macierze o wymiarach 5x5.  
-W programie użyto klasy -macierz- , a takze przeciążono operatory (dodawania, wejścia, wyjścia).  
+W programie użyto klasy -macierz- oraz przeciążono operatory (dodawania, wejścia, wyjścia).  
 Program także sprawdza, czy dana liczba jest pierwsza.  
 Aplikacja została napisana dla potrzeb zaliczenia przedmiotu ze studiów.  
 
