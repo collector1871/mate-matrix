@@ -7,7 +7,7 @@ Aplikacja została napisana dla potrzeb zaliczenia przedmiotu ze studiów.
 
 ### Kompilacja i uruchomienie (Windows lub Linux)
 	
-##### Kompilacja Windows/MinGW:
+##### Kompilacja Windows/MinGW/Cygwin:
 
 	make
 	
