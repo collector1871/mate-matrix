@@ -1,2 +1,2 @@
 all:
-	g++ -Ilib -w -o mate-matrix.exe mate-matrix.cpp
+	g++ -Ilib -w -o matmat-linux.exe mate-matrix.cpp -lncurses

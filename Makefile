@@ -1,2 +1,2 @@
 all:
-	g++ -w -o mate-matrix.exe mate-matrix.cpp
+	g++ -w -o matmat-windows.exe mate-matrix.cpp
