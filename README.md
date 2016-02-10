@@ -5,9 +5,9 @@ W programie u¿yto klasy -macierz- , a takze przeci¹¿ono operatory (dodawania, we
 Program tak¿e sprawdza, czy dana liczba jest pierwsza.  
 Aplikacja zosta³a napisana dla potrzeb zaliczenia przedmiotu ze studiów.  
 
-### kompilacja i uruchomienie (Windows lub Linux)
+### Kompilacja i uruchomienie (Windows lub Linux)
 	
-##### kompilacja Windows/MinGW:
+##### Kompilacja Windows/MinGW:
 
 	make
 	
