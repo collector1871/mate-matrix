@@ -21,10 +21,10 @@ Zależności:
 
 Binaria gotowe są bez kompilacji:
 
-	./matmat-windows.exe
+	./matmat-linux.exe	
 	
-lub:
+lub (sprawdzone pod Cygwinem):
 
-	./matmat-linux.exe
-		
+	./matmat-windows.exe
+
 ### Screenshot:
