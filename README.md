@@ -13,7 +13,7 @@ Aplikacja zosta³a napisana dla potrzeb zaliczenia przedmiotu ze studiów.
 	
 Kompilacja pod Linuxem - inny makefile (biblioteka conio.h wymaga dodania):
 
-	make -f makefile-linux
+	make -f Makefile-linux
 	
 ##### Uruchomienie (Windows 64bit oraz Linux 64bit):	
 
