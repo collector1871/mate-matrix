@@ -1,9 +1,9 @@
 # mate-matrix
 
-Program dodajπcy do siebie dwie macierze o wymiarach 5x5.  
-W programie uøyto klasy -macierz- , a takze przeciπøono operatory (dodawania, wejúcia, wyjúcia).  
-Program takøe sprawdza, czy dana liczba jest pierwsza.  
-Aplikacja zosta≥a napisana dla potrzeb zaliczenia przedmiotu ze studiÛw.  
+Program dodajƒÖcy do siebie dwie macierze o wymiarach 5x5.  
+W programie u≈ºyto klasy -macierz- , a takze przeciƒÖ≈ºono operatory (dodawania, wej≈õcia, wyj≈õcia).  
+Program tak≈ºe sprawdza, czy dana liczba jest pierwsza.  
+Aplikacja zosta≈Ça napisana dla potrzeb zaliczenia przedmiotu ze studi√≥w.  
 
 ### Kompilacja i uruchomienie (Windows lub Linux)
 	
@@ -17,7 +17,7 @@ Kompilacja pod Linuxem - inny makefile (biblioteka conio.h wymaga dodania):
 	
 ##### Uruchomienie (Windows 64bit oraz Linux 64bit):	
 
-Binaria gotowe sπ bez kompilacji:
+Binaria gotowe sÔøΩ bez kompilacji:
 
 	./mate-matrix.exe
 	
