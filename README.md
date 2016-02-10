@@ -12,7 +12,6 @@ Aplikacja została napisana dla potrzeb zaliczenia przedmiotu ze studiów.
 	make
 	
 Kompilacja pod Linuxem - inny makefile (biblioteka conio.h wymaga dodania):
-
 Zależności:
 	
 	apt-get install libncurses5-dev
