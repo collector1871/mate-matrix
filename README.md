@@ -17,6 +17,8 @@ Kompilacja pod Linuxem - inny makefile (biblioteka conio.h wymaga dodania):
 	
 ##### Uruchomienie (Windows 64bit oraz Linux 64bit):	
 
+Binaria gotowe s¹ bez kompilacji:
+
 	./mate-matrix.exe
 	
 ### Screenshot:
