@@ -13,12 +13,19 @@ Aplikacja została napisana dla potrzeb zaliczenia przedmiotu ze studiów.
 	
 Kompilacja pod Linuxem - inny makefile (biblioteka conio.h wymaga dodania):
 
+Zależności:
+	
+	apt-get install libncurses5-dev
 	make -f Makefile-linux
 	
 ##### Uruchomienie (Windows 64bit oraz Linux 64bit):	
 
 Binaria gotowe są bez kompilacji:
 
-	./mate-matrix.exe
+	./matmat-windows.exe
 	
+lub:
+
+	./matmat-linux.exe
+		
 ### Screenshot:
