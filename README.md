@@ -7,11 +7,13 @@ Aplikacja została napisana dla potrzeb zaliczenia przedmiotu ze studiów.
 
 ### Kompilacja i uruchomienie (Windows lub Linux)
 	
-##### Kompilacja Windows/MinGW/Cygwin:
+##### Kompilacja 
+
+Windows/MinGW/Cygwin:
 
 	make
 	
-Kompilacja pod Linuxem - inny makefile (biblioteka conio.h wymaga dodania):
+Kompilacja pod Linuxem - inny makefile (bo biblioteka conio.h wymaga dodania):
 Zależności:
 	
 	apt-get install libncurses5-dev
@@ -23,8 +25,9 @@ Binaria gotowe są bez kompilacji:
 
 	./matmat-linux.exe	
 	
-lub (sprawdzone pod Cygwinem):
+lub (testowane pod Cygwinem):
 
 	./matmat-windows.exe
 
 ### Screenshot:
+

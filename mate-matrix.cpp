@@ -98,7 +98,7 @@ cin>>jeden;
 cout<<"\nPodaj parametry DRUGIEJ macierzy:\n";
 cin>>dwa;
 
-cout<<"\n\nDodawaie tych macierzy do siebie: \n\n"<<jeden<<"\n\n + \n\n"<<dwa<<endl;
+cout<<"\n\nDodawanie tych macierzy do siebie: \n\n"<<jeden<<"\n\n + \n\n"<<dwa<<endl;
 wynik = jeden + dwa; /* dodanie dwoch macierzy */
 cout<<"\nWynik dodawania: \n\n"<<wynik<<endl;
 getch();   break;
