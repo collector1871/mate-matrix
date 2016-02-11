@@ -29,7 +29,7 @@ lub (testowane pod Cygwinem):
 
 	./matmat-windows.exe
 
-### Screenshot:
+### Screenshoty:
 
 ![matmat-windows.exe](https://raw.githubusercontent.com/collector1871/mate-matrix/master/matmat01.jpg)
 ![matmat-windows.exe](https://raw.githubusercontent.com/collector1871/mate-matrix/master/matmat02.jpg)
