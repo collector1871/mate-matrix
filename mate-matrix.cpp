@@ -83,9 +83,9 @@ for(;q!=z;)     /* !=    oznacza "nie rowna sie"*/
 cout<<"\n\n#### PROGRAM ZALICZENIOWY MATE-MATRIX  ####\n\n\n";
 cout<<"\n\n";
 cout<<"1. DODANIE DWOCH MACIERZY o wymiarach 5x5\n";
-cout<<"2. OPIS PROGRAMU\n";
-cout<<"3. SPRAWDZ CZY DANA LICZBA JEST PIERWSZA\n";
-cout<<"4. WYJDZ Z PROGRAMU\n";
+/*cout<<"2. OPIS PROGRAMU\n"; */
+cout<<"2. SPRAWDZ CZY DANA LICZBA JEST PIERWSZA\n";
+cout<<"3. WYJDZ Z PROGRAMU\n";
 cout<<"\n\n\n\Wybierz numer od 1-4:";
 cin>>b;
 switch (b)
@@ -103,11 +103,8 @@ wynik = jeden + dwa; /* dodanie dwoch macierzy */
 cout<<"\nWynik dodawania: \n\n"<<wynik<<endl;
 getch();   break;
 
-case 2:system("cls");
-cout<<"\nmate-matrix\n\nProgram dodajacy do siebie dwie macierze o wymiarach 5x5.\n W programie uzyto klasy -macierz- ,\n a takze przeciazono operatory (dodawania, wejscia, wyjscia).\nProgram takze sprawdza, czy dana liczba jest pierwsza. \nProgram zostal napisany na zaliczenie przedmiotu ze studiow.\n Autorem aplikacji jest Rafal B (collector1871).  ";
-getch(); break; /* powrot do poczatku*/
 
-case 3:system("cls");
+case 2:system("cls");
 cout << " Liczba pierwsza - to taka liczba, ktora BEZ reszty ma tylko dwa dzielniki:  \n";
 cout<<"siebie sama oraz jedynke (1). \n";
 cout<<"A wiec taka liczba naturalna X ktora ma tylko dwa dzielniki naturalne: 1 oraz X.\n";
@@ -124,7 +121,7 @@ cout << m << " - ta liczba nie jest liczba pierwsza." << endl;
 }
 getch(); break; /* powrot do poczatku*/
 
-case 4:
+case 3:
 z=0;break; /* powrot do poczatku, ale tym razem z q=w*/
 
 
