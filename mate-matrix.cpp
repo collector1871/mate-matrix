@@ -86,7 +86,7 @@ cout<<"1. DODANIE DWOCH MACIERZY o wymiarach 5x5\n";
 /*cout<<"2. OPIS PROGRAMU\n"; */
 cout<<"2. SPRAWDZ CZY DANA LICZBA JEST PIERWSZA\n";
 cout<<"3. WYJDZ Z PROGRAMU\n";
-cout<<"\n\n\n\Wybierz numer od 1-4:";
+cout<<"\n\n\n\Wybierz numer od 1-3:";
 cin>>b;
 switch (b)
 {
