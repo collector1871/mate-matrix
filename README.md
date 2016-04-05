@@ -12,7 +12,7 @@ Aplikacja została napisana na potrzeby zaliczenia przedmiotu w ramach studiów.
 ### Kompilacja i uruchomienie (Windows lub Linux)
 	
 ##### Kompilacja 
-
+  
 Windows/MinGW/Cygwin:
 
 	make
