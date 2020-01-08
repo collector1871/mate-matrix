@@ -2,7 +2,7 @@
 
 * technologia: C/C++
 * kod źródłowy:  
-https://github.com/collector1871/mate-matrix  
+https://github.com/rdbeni0/mate-matrix  
 
 Program dodający do siebie dwie macierze o wymiarach 5x5.  
 W programie użyto klasy -macierz- oraz przeciążono operatory (dodawania, wejścia, wyjścia).  
@@ -35,6 +35,6 @@ lub (testowane pod Cygwinem):
 
 ### Screenshoty:
 
-![matmat-windows.exe](https://raw.githubusercontent.com/collector1871/mate-matrix/master/matmat02.jpg)
+![matmat-windows.exe](https://raw.githubusercontent.com/rdbeni0/mate-matrix/master/matmat02.jpg)
 
-![matmat-windows.exe](https://raw.githubusercontent.com/collector1871/mate-matrix/master/matmat01.jpg)
+![matmat-windows.exe](https://raw.githubusercontent.com/rdbeni0/mate-matrix/master/matmat01.jpg)
